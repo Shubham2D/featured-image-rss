@@ -4,6 +4,7 @@
  * Description: Adds featured images to WordPress RSS feeds.
  * Version: 1.0
  * Author: Shubham Sawarkar
+ * Author URI: https://github.com/Shubham2D
  * License: MIT
  */
 
