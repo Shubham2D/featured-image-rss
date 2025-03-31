@@ -3,7 +3,7 @@
  * Plugin Name: Featured Image in RSS Feed
  * Description: Adds featured images to WordPress RSS feeds.
  * Version: 1.0
- * Author: Your Name
+ * Author: Shubham Sawarkar
  * License: MIT
  */
 
